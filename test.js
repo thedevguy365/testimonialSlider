@@ -64,7 +64,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial20.style.display = 'none';        
         testimonial1.style.display = 'block';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image1.jpg';
+        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image1.jpg?raw=true';
     }
     else if (randomNumber == 2){
         testimonial3.style.display = 'none';
