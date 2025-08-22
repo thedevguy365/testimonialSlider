@@ -88,7 +88,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial1.style.display = 'none';
         testimonial2.style.display = 'block'
         document.querySelector(".contributorImage").style.display = 'block'        
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image2.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image2.jpg';
     }
     else if (randomNumber == 3){
         testimonial1.style.display = 'none';
@@ -112,7 +112,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image3.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image3.jpg';
     }
     else if (randomNumber == 4){
         testimonial1.style.display = 'none';
@@ -136,7 +136,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';        
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image4.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image4.jpg';
     }
     else if (randomNumber == 5){
         testimonial1.style.display = 'none';
@@ -160,7 +160,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image5.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image5.jpg';
     }
     else if (randomNumber == 6){
         testimonial1.style.display = 'none';
@@ -184,7 +184,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image6.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image6.jpg';
     }
     else if (randomNumber == 7){
         testimonial1.style.display = 'none';
@@ -208,7 +208,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image7.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image7.jpg';
     }
     else if (randomNumber == 8){
         testimonial1.style.display = 'none';
@@ -232,7 +232,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image8.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image8.jpg';
     }
     else if (randomNumber == 9){
         testimonial1.style.display = 'none';
@@ -256,7 +256,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image9.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image9.jpg';
     }
     else if (randomNumber == 10){
         testimonial1.style.display = 'none';
@@ -280,7 +280,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image10.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image10.jpg';
     }
     else if (randomNumber == 11){
         testimonial1.style.display = 'none';
@@ -304,7 +304,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image11.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image11.jpg';
     }
     else if (randomNumber == 12){
         testimonial1.style.display = 'none';
@@ -328,7 +328,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image12.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image12.jpg';
     }
     else if (randomNumber == 13){
         testimonial1.style.display = 'none';
@@ -352,7 +352,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image13.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image13.jpg';
     }
     else if (randomNumber == 14){
         testimonial1.style.display = 'none';
@@ -376,7 +376,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image14.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image14.jpg';
     }
     else if (randomNumber == 15){
         testimonial1.style.display = 'none';
@@ -400,7 +400,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image15.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image15.jpg';
     }
     else if (randomNumber == 16){
         testimonial1.style.display = 'none';
@@ -424,7 +424,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image16.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image16.jpg';
     }
     else if (randomNumber == 17){
         testimonial1.style.display = 'none';
@@ -448,7 +448,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image17.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image17.jpg';
     }
     else if (randomNumber == 18){
         testimonial1.style.display = 'none';
@@ -472,7 +472,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image18.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image18.jpg';
     }
     else if (randomNumber == 19){
         testimonial1.style.display = 'none';
@@ -496,7 +496,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'block';
         testimonial20.style.display = 'none';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image19.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image19.jpg';
     }
     else if (randomNumber == 20){
         testimonial1.style.display = 'none';
@@ -520,7 +520,7 @@ document.querySelector(".nextTestimonial").addEventListener("click",function(){
         testimonial19.style.display = 'none';
         testimonial20.style.display = 'block';
         document.querySelector(".contributorImage").style.display = 'block'
-        document.querySelector(".contributorImage").src = 'https://github.com/thedevguy365/testimonialSlider/blob/main/image20.jpg';
+        document.querySelector(".contributorImage").src = 'https://raw.githubusercontent.com/thedevguy365/testimonialSlider/refs/heads/main/image20.jpg';
     }
     else alert("Something went wrong");
 });
